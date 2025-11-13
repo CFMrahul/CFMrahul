@@ -33,7 +33,6 @@ My goal is to turn ideas into reality through clean code, responsive design, and
 
 </p>
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -46,7 +45,6 @@ My goal is to turn ideas into reality through clean code, responsive design, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFMrahul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
----
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -54,7 +52,6 @@ My goal is to turn ideas into reality through clean code, responsive design, and
   <img src="https://github-profile-trophy.vercel.app/?username=CFMrahul&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
----
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 
@@ -62,7 +59,6 @@ My goal is to turn ideas into reality through clean code, responsive design, and
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
 
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 
