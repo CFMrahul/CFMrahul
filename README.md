@@ -9,7 +9,6 @@ I’m a dedicated web developer who loves building <b>modern, user-friendly, and
 My goal is to turn ideas into reality through clean code, responsive design, and solid backend logic. I enjoy learning new technologies and contributing to meaningful open-source projects.
 </p>
 
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
