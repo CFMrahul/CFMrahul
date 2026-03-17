@@ -44,18 +44,18 @@ My goal is to turn ideas into reality through clean code, responsive design, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFMrahul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CFMrahul&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CFMrahul&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 
-<h2 align="center">✍️ Random Dev Quote</h2>
+
+<h2 align="center">✍️ Developer Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 
@@ -65,22 +65,20 @@ My goal is to turn ideas into reality through clean code, responsive design, and
   <img src="https://github-contributor-stats.vercel.app/api?username=CFMrahul&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
----
+<h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CFMrahul&title=Profile%20Views&color=6A5ACD&icon=5"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=CFMrahul&label=Profile%20views&color=0e75b6&style=flat" alt="CFMrahul"/>
 </p>
 
----
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<h2 align="center">🐍 Contribution Snake</h2>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
 
 <h3 align="center">⭐️ “Code. Learn. Build. Repeat.”</h3>
 
