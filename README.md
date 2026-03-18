@@ -32,7 +32,6 @@ My goal is to turn ideas into reality through clean code, responsive design, and
 
 </p>
 
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -47,10 +46,8 @@ My goal is to turn ideas into reality through clean code, responsive design, and
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CFMrahul&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CFMrahul&theme=gruvbox&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
 </p>
-
-
 
 <h2 align="center">✍️ Developer Quote</h2>
 
@@ -61,25 +58,24 @@ My goal is to turn ideas into reality through clean code, responsive design, and
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 
 <p align="center">
-
-<a href="https://github.com/CFMrahul/Guess-Number-Mini-Game">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Guess-Number-Mini-Game&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/CFMrahul/Color-Changer">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Color-Changer&theme=tokyonight"/>
-</a>
-
+  <!-- Row 1 -->
+  <a href="https://github.com/CFMrahul/Repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Wanderlust&theme=dark&hide_border=fals" height="180px" />
+  </a>
+  <a href="https://github.com/CFMrahul/Repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Guess-Number-Mini-Game&theme=dark&hide_border=false" height="180px" />
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/CFMrahul/Wanderlust">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Wanderlust&theme=tokyonight"/>
-</a>
-
+  <!-- Row 2 -->
+  <a href="https://github.com/CFMrahul/Repo-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=PressAnyKay&theme=radical&hide_border=false" height="180px" />
+  </a>
+  <a href="https://github.com/CFMrahul/Repo-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Unlimited-Color-changer&theme=radical&hide_border=false" height="180px" />
+  </a>
 </p>
-
 
 <h2 align="center">👀 Profile Views</h2>
 
@@ -87,14 +83,11 @@ My goal is to turn ideas into reality through clean code, responsive design, and
 <img src="https://komarev.com/ghpvc/?username=CFMrahul&label=Profile%20views&color=0e75b6&style=flat" alt="CFMrahul"/>
 </p>
 
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
-
-
 
 <h3 align="center">⭐️ “Code. Learn. Build. Repeat.”</h3>
 
