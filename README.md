@@ -58,12 +58,28 @@ My goal is to turn ideas into reality through clean code, responsive design, and
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CFMrahul&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+
+<a href="https://github.com/CFMrahul/Guess-Number-Mini-Game">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Guess-Number-Mini-Game&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/CFMrahul/Color-Changer">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Color-Changer&theme=tokyonight"/>
+</a>
+
 </p>
+
+<p align="center">
+
+<a href="https://github.com/CFMrahul/Wanderlust">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Wanderlust&theme=tokyonight"/>
+</a>
+
+</p>
+
 
 <h2 align="center">👀 Profile Views</h2>
 
