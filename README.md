@@ -72,8 +72,8 @@ My goal is to turn ideas into reality through clean code, responsive design, and
   <a href="https://github.com/CFMrahul/Repo-3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=Unlimited-Color-changer&theme=dark&hide_border=false" height="180px" />
   </a>
-  <a href="https://github.com/CFMrahul/Repo-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=PressAnyKay&theme=radical&hide_border=false" height="180px" />
+   <a href="https://github.com/CFMrahul/Repo-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFMrahul&repo=PressAnyKay&theme=dark&hide_border=false" height="180px" />
   </a>
 </p>
 
